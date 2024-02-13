@@ -35,5 +35,10 @@ This is a straightforward shopping cart application developed with React. Users 
 3. The button text will change to "Remove from Cart" if the item is added.
 4. Click the "Remove from Cart" button to remove the item from the cart.
 5. View and manage the cart using the Navbar.
+   
+## Deployment
+
+The application is deployed and can be accessed [shopping-cart](https://netlify-shopping-cart.netlify.app/).
+  
 
 Feel free to explore and enhance the application as needed!
