@@ -57,11 +57,11 @@
   margin-bottom: 50px;
 }
 
-/* .card:hover {
+.card:hover {
   box-shadow: 7px 4px 45px 19px rgb(214, 213, 213);
   transition: ease-out 0.5s;
   cursor: pointer;
-} */
+}
 
 .card-titles {
   font-weight: 700;
@@ -71,7 +71,7 @@
   color: #ffc107;
 }
 
-/* .sale-btn {
+.sale-btn {
   width: 40px;
   height: auto;
   font-size: 12px;
@@ -86,7 +86,7 @@
   border: none;
   padding: 2px;
   border-radius: 5px;
-} */
+}
 
 
 
