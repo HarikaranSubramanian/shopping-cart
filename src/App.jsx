@@ -3,7 +3,7 @@ import Navbar from "./Components/Navbar";
 import Header from "./Components/Header";
 import Card from "./Components/Card";
 import Footer from "./Components/Footer";
-import "./App.css";
+// import "./App.css";
 
 const App = () => {
   const [cartData, setCartData] = useState([]);
