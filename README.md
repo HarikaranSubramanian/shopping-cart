@@ -38,7 +38,7 @@ This is a straightforward shopping cart application developed with React. Users 
    
 ## Deployment
 
-The application is deployed and can be accessed [shopping-cart](https://netlify-shopping-cart.netlify.app/).
+The application is deployed and can be accessed here : [shopping-cart](https://netlify-shopping-cart.netlify.app/).
   
 
 Feel free to explore and enhance the application as needed!
